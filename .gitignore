@@ -7,6 +7,7 @@
 .config/configstore
 .jupyter-server-log.txt
 .profile
+.config
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
